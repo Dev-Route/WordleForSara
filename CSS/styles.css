@@ -195,6 +195,14 @@ body{
 .alert.hide{
     opacity: 0;
 }
+
+.img-banner{
+  width: auto ;
+  max-width: 50% ;
+  height: auto ;
+}
+
+
 .theme-change{
   position: absolute;
   top: 2.5rem;
